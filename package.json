@@ -1,0 +1,22 @@
+{
+  "name": "gntsetude",
+  "version": "0.0.1",
+  "description": "Using Google's gn to build a typescript webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgesteve/gntsetude.git"
+  },
+  "author": "R. G. Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgesteve/gntsetude/issues"
+  },
+  "homepage": "https://github.com/rgesteve/gntsetude#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
