@@ -1,0 +1,6 @@
+{
+    "name" : "gntsetude",
+    "build" : {
+        "dockerfile": "Dockerfile"
+    }
+}
